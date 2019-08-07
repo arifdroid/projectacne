@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907908704507",
+    "firebase_url": "https://fir-test-43555.firebaseio.com",
+    "project_id": "fir-test-43555",
+    "storage_bucket": "fir-test-43555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907908704507:android:c628fac150d05ea2",
+        "android_client_info": {
+          "package_name": "com.projectacnev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907908704507-v9ftl66kad6bjktbgivbcp7vl93g115j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCF2EcJNk1Q8f5iruIF6oKjDOJ9ynw9Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907908704507-v9ftl66kad6bjktbgivbcp7vl93g115j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
